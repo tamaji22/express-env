@@ -1,0 +1,20 @@
+@import 'https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css';
+@import 'https://use.fontawesome.com/releases/v5.15.3/css/all.css';
+
+body {
+  padding: 50px;
+  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.navbar-border-bottom {
+  border-bottom: solid 1px black;
+  padding-bottom: 1em;
+}
+
+.card-header-bg-color {
+  background-color: lightgrey;
+}
